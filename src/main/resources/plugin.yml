@@ -1,0 +1,12 @@
+name: CategoryHoppers
+version: 1.0
+main: org.example.categoryhopper.CategoryHopperPlugin
+api-version: 1.21
+commands:
+  givehopper:
+    description: Gives a category filter hopper
+    usage: /givehopper <player>
+permissions:
+  categoryhopper.admin:
+    description: Allows giving hoppers
+    default: op
