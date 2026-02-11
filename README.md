@@ -116,6 +116,4 @@ This plugin uses:
 
 ## 📄 License
 
-This project is licensed under the MIT License
-
-<img src="https://t.bkit.co/w_698d11f30eb21.gif" />
+This project is licensed under the MIT License.
